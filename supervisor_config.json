@@ -1,0 +1,40 @@
+{
+  "demo_basic": [
+    "service_status",
+    "service_state",
+    "update_repos",
+    "service_diagnostic",
+    "service_discovery",
+    "service_process_messenger"
+  ],
+  "demo_premium": [
+    "service_status",
+    "service_state",
+    "update_repos",
+    "service_diagnostic",
+    "service_discovery",
+    "service_process_messenger",
+    "service_detection_attacks_lan"
+  ],
+  "standard": [
+    "service_status",
+    "service_state",
+    "update_repos",
+    "service_diagnostic",
+    "service_discovery",
+    "service_detection_attacks_lan",
+    "service_process_messenger"
+  ],
+  "enterprise": [
+    "service_status",
+    "service_state",
+    "update_repos",
+    "service_diagnostic",
+    "service_discovery",
+    "service_process_messenger",
+    "service_scan_lan",
+    "service_vulnerabilities_tcp",
+    "service_vulnerabilities_udp",
+    "service_detection_attacks_lan"
+  ]
+}
