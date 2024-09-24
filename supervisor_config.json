@@ -1,19 +1,23 @@
 {
   "insights": [
-    "web_cli",
-    "remote_ssh",
     "update_repos",
     "service_state",
     "service_status",
-    "service_diagnostic",
+    "service_sniffer_devices",
+    "service_process_messenger",
+    "service_vulnerabilities_tcp",
+    "service_vulnerabilities_udp"
+  ],
+    "vulnerabilities_plus": [
+    "update_repos",
+    "service_state",
+    "service_status",
     "service_sniffer_devices",
     "service_process_messenger",
     "service_vulnerabilities_tcp",
     "service_vulnerabilities_udp"
   ],
   "isolation": [
-    "web_cli",
-    "remote_ssh",
     "update_repos",
     "service_state",
     "service_status",
@@ -24,8 +28,6 @@
     "service_vulnerabilities_udp"
   ],
   "pov": [
-    "web_cli",
-    "remote_ssh",
     "update_repos",
     "service_state",
     "service_status",
@@ -37,8 +39,6 @@
     "service_detection_attacks_lan"
   ],
   "complete": [
-    "web_cli",
-    "remote_ssh",
     "update_repos",
     "service_state",
     "service_status",
@@ -50,8 +50,6 @@
     "service_detection_attacks_lan"
   ],
   "enterprise": [
-    "web_cli",
-    "remote_ssh",
     "update_repos",
     "service_state",
     "service_status",
