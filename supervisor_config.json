@@ -59,5 +59,16 @@
     "service_vulnerabilities_tcp",
     "service_vulnerabilities_udp",
     "service_detection_attacks_lan"
+  ],
+   "community": [
+    "update_repos",
+    "service_state",
+    "service_status",
+    "service_discovery",
+    "service_sniffer_devices",
+    "service_process_messenger",
+    "service_vulnerabilities_tcp",
+    "service_vulnerabilities_udp",
+    "service_detection_attacks_lan"
   ]
 }
