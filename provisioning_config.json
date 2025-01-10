@@ -1,0 +1,9 @@
+{
+    "kore_run":true,
+    "kore_subscription_id":"guarddogsolutions-gyiuquapm",
+    "kore_registry_id":"vfido-prod",
+    "kore_mqtt_bridge_hostname":"gyiuquapm.mqtt.korewireless.com",
+    "kore_client_id":"Productiona1b99e41d97310319fc7",
+    "kore_client_secret":"fc4a365bf3211ea187a6",
+    "kore_x_api_key":"QRjdwvg2Zq8oPp8OLgWCR3H7EIbo0WRx5I4McDfX"
+}
